@@ -1,0 +1,14 @@
+.navigate {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  font-weight: bold;
+}
+
+.navLinkButtn {
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+}
